@@ -1,0 +1,39 @@
+Dated: 27-01-2022
+Session: Alert,Data driven Framework, Action class,Learned about CSS Selector .
+Task: Data-Driven Assignment.
+    :Xpath (parent,sibling,following) Assignemnt  
+	:with particular tagName to get news link form bbc Assignment
+Self-Learn: Data-Driven Framework(read and write)
+
+
+
+how pick data from oneclass to another using in arraylist
+add username and password using hasMap
+about link list
+in what condition we should use linklisted over array and in what condition we use arralisted
+read definiatin
+we have session about collection framwork and writedata data into excel file which i have done already
+about has map 
+arraylist method 
+about interfaces
+
+Dated: 28-01-2022
+Session: collection framework,interfaces,write data in file handling .
+task 1:how pick data from oneclass to another using in arraylist(done)
+task 2:add username and password using hasMap(done)
+task 3:write data to excel at runtime(done)
+Self-Learn:About linkList, method of linklist.
+
+          Dated: 01/31/2022
+Session: About TestNg
+Setup of TestNG
+Task 1: Learned about TestNG framework 
+Task 2: TestNG Annotations with example
+Task 3: Learn about data providers
+Self Learn:
+Task 1:About interfaces.
+
+Dated: 02/02/2022
+Session: Parallel test execution in methods, ThreadsPool and Maven 
+Self Learn: Task1: Created separated branches for specific assignments and push the code to GitHub.   (done)
+Task2. i have done Parallel test execution in classes.    (done)
