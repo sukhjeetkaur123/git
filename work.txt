@@ -31,7 +31,7 @@ Task 1: Learned about TestNG framework
 Task 2: TestNG Annotations with example
 Task 3: Learn about data providers
 Self Learn:
-Task 1:About interfaces.kich bhi
+Task 1:About interfaces.kuch bi=h
 
 Dated: 02/02/2022
 Session: Parallel test execution in methods, ThreadsPool and Maven 
